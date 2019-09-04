@@ -1,0 +1,44 @@
+body{
+  background-color: #fffffa;
+}
+
+.subtit
+{
+  align-self: center;
+}
+
+.container{
+  size: 100%;
+}
+
+.barra{
+  display: flex;
+  flex-direction: column;
+  background: black;
+  padding: 2rem;
+}
+
+.navegacion a{
+  text-decoration: none;
+  color: purple;
+}
+
+.sideHeader{
+  
+  background-image: url(../img/cabecera.jpg);
+  height: 100vh; 
+  background-position: center center;
+  background-size: cover;
+}
+
+div{
+  flex-direction: column;
+}
+
+h3{
+  color: blue;
+}
+
+p{
+  color: red;
+}
